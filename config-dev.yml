@@ -1,2 +1,2 @@
-health:
-  config: "hello spring-config"
+config:
+  info: "hello spring-config"
